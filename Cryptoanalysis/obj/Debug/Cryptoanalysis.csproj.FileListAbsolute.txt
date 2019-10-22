@@ -1,0 +1,7 @@
+C:\Users\Vlad\Source\Repos\Cryptoanalysis\Cryptoanalysis\bin\Debug\Cryptoanalysis.exe.config
+C:\Users\Vlad\Source\Repos\Cryptoanalysis\Cryptoanalysis\bin\Debug\Cryptoanalysis.exe
+C:\Users\Vlad\Source\Repos\Cryptoanalysis\Cryptoanalysis\bin\Debug\Cryptoanalysis.pdb
+C:\Users\Vlad\Source\Repos\Cryptoanalysis\Cryptoanalysis\obj\Debug\Cryptoanalysis.csprojAssemblyReference.cache
+C:\Users\Vlad\Source\Repos\Cryptoanalysis\Cryptoanalysis\obj\Debug\Cryptoanalysis.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Source\Repos\Cryptoanalysis\Cryptoanalysis\obj\Debug\Cryptoanalysis.exe
+C:\Users\Vlad\Source\Repos\Cryptoanalysis\Cryptoanalysis\obj\Debug\Cryptoanalysis.pdb
